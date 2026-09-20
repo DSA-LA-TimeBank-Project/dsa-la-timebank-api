@@ -4,8 +4,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>dsa_la_timebank_api</RootNamespace>
-    <UserSecretsId>6462584e-95c4-4a08-9eb1-ee58760996e9</UserSecretsId>
+    <UserSecretsId>32f9146b-5a81-4b64-b2dd-eb9b352f5667</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 

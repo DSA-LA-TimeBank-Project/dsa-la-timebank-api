@@ -1,4 +1,4 @@
-namespace dsa_la_timebank_api
+namespace DSA.LA.TimeBank.API
 {
     public class WeatherForecast
     {

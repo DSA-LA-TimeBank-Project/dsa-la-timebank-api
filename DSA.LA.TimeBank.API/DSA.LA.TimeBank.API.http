@@ -1,0 +1,6 @@
+@DSA.LA.TimeBank.API_HostAddress = http://localhost:5039
+
+GET {{DSA.LA.TimeBank.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

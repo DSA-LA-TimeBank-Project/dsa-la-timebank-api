@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace dsa_la_timebank_api.Controllers
+namespace DSA.LA.TimeBank.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
