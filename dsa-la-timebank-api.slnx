@@ -5,4 +5,5 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="DSA.LA.TimeBank.API/DSA.LA.TimeBank.API.csproj" Id="b062dc52-4200-4ab6-ba1a-73fa72ee479b" />
+  <Project Path="DSA.LA.TimeBank.Core/DSA.LA.TimeBank.Core.csproj" Id="f05a347e-9088-40e0-8242-bc4588d61ec0" />
 </Solution>
