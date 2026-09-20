@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/SolutionDirectory/">
+    <File Path=".dockerignore" />
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="DSA.LA.TimeBank.API/DSA.LA.TimeBank.API.csproj" Id="b062dc52-4200-4ab6-ba1a-73fa72ee479b" />
 </Solution>
