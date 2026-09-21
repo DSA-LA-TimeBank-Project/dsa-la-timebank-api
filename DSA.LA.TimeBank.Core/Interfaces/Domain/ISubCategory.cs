@@ -4,6 +4,6 @@
     {
         string Name { get; set; }
         int CategoryId { get; set; }
-        ICategory Category { get; set; }
+        ICategory? Category { get; set; }
     }
 }

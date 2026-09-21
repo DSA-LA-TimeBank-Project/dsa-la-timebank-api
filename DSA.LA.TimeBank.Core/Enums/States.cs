@@ -2,6 +2,7 @@
 {
     internal enum States
     {
+        NULL,
         ALABAMA,
         ALASKA,
         ARIZONA,
