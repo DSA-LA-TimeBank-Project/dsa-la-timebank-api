@@ -2,7 +2,7 @@
 
 namespace DSA.LA.TimeBank.API.Models
 {
-    public class APIResponse : IAPIResponse
+    public class Response : IResponse
     {
         public bool IsSuccess { get; set; } = false;
         public string Message { get; set; } = string.Empty;

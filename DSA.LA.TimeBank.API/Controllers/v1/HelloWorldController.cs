@@ -12,9 +12,9 @@ namespace DSA.LA.TimeBank.API.Controllers.v1
     {
         [AllowAnonymous]
         [HttpGet]
-        public ActionResult<IAPIResponse> Get()
+        public ActionResult<IResponse> Get()
         {
-            APIResponse response = new()
+            Response response = new()
             {
                 IsSuccess = true,
                 Message = "Hello World from DSA-LA TimeBank!"
